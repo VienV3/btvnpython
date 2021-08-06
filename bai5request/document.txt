@@ -1,0 +1,52 @@
+method:get,post
+api,http
+c1:truong hop co api:web no cho api roi=>auto voi trang do=>tuong tac voi api ma thoi
+
+
+c2:cach kinh dien=?gan nhu dung voi moi trang
+neu trang chua co api:phai bat dc cac request giao tiep giua client va server
+sau do mo phong lai cac request
+
+dung thu vien request=>mo phong duoc qua trinh tuong tac voi server
+=>get trang chu, dang nhap, logout
+
+-request=> la 1 thu vien=> 1 package
+selenium
+slugify
+pip(quan ly dc cac thu vien)=>cai thu vien moi
+pip install requests==3.0
+
+//api.myip.com
+//ip2location.com
+//http model
+//cai dat postman
+
+b1:bat tat ca cuoc tro truyen cua client va server(requests)
+giong nhu ghi lai tat ca tin nhan cua cuoc noi chuyen giua A va B
+b2: tim kiem tin nhan nao thuc su la co gia tri va can thiet
+tim kiem->loc
+b3: sau khi tim dc 1 hoa vai tin nhan thuc su gia tri
+mo phong laij(requests)=>tra ve la A ru B(server) di an
+
+
+
+
+
+
+
+
+
+cokie ban dau:
+xf_session=125686d150ad912e47256fb9e1243eb7
+
+xf_session=e5a63044621cd55a63b95a23eec03d1e; path=/; secure; httponly
+
+
+xf_session=e5a63044621cd55a63b95a23eec03d1e
+
+xf_session=be0ca0ae2f48a10ecbf1da6f33d40695; path=/; secure; httponly
+
+
+
+
+

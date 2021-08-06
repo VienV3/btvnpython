@@ -1,0 +1,3 @@
+1.cai dat pyautogui(dieu khien giao dien)
+2.au3 info
+3.tim hieu cuon sach "automatic the boring stuff width  python" noi ve du lieu co ban cua python
