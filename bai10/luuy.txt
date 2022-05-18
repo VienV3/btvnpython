@@ -1,0 +1,4 @@
+neu luu profile tu chrome selenium
+chi co the dung chrom selenium de mo len
+tao profile bang cau lenh: chrome co cau lenh tao ra profiles
+sau khi tao xong=>dung chrome selenium chọc vào profile do de dieu khien?

@@ -1,0 +1,7 @@
+hoc co ban
+request => get, post don gian
+data tra ve=>plain text, json
+plan text co 2 dang
+-khong co cau truc=>regex
+-html=>bs4(beautiful soup 4) => tach ket qua
+json:thu vien json
